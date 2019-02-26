@@ -1,6 +1,6 @@
 //START!!
 
-//QUASTION 1+2 (caulator)
+//QUASTION 1+2 (caculator)
 <html>
     <head>
         <title>html rocks!!</title>
@@ -69,7 +69,7 @@
         }
     </script>
 </html>
-//QUESTION 1+2 (caulator)
+//QUESTION 1+2 (caculator)
 
 //QUESTION 3
 <html>
